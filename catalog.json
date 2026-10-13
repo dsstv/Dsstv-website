@@ -1,0 +1,82 @@
+[
+  {
+    "id": "cargo-13",
+    "title": "CARGO 13",
+    "year": 2026,
+    "genre": "Crime · Mystery · Thriller",
+    "kind": "original",
+    "description": "A warehouse inventory specialist investigates the disappearance of her brother three years earlier.",
+    "poster": "assets/posters/cargo-13.jpg",
+    "status": "In development"
+  },
+  {
+    "id": "four-hands-two-sonatas",
+    "title": "Four Hands, Two Sonatas",
+    "year": 2026,
+    "genre": "Music · Drama",
+    "kind": "review",
+    "description": "DSS TV K-Drama Spotlight feature for Four Hands, Two Sonatas (포핸즈). Approved promotional editorial poster; video review available through DSS TV channels.",
+    "poster": "assets/posters/four-hands-two-sonatas.png",
+    "status": "Approved DSS TV Spotlight poster"
+  },
+  {
+    "id": "when-life-gives-you-tangerines",
+    "title": "When Life Gives You Tangerines",
+    "year": 2025,
+    "genre": "Romance · Life",
+    "kind": "review",
+    "description": "Selected for the DSS TV review watchlist. Review pending.",
+    "poster": "assets/posters/when-life-gives-you-tangerines.jpg",
+    "status": "Poster pending"
+  },
+  {
+    "id": "love-scout",
+    "title": "Love Scout",
+    "year": 2025,
+    "genre": "Romance",
+    "kind": "review",
+    "description": "Selected for the DSS TV review watchlist. Review pending.",
+    "poster": "assets/posters/love-scout.jpg",
+    "status": "Poster pending"
+  },
+  {
+    "id": "queen-of-tears",
+    "title": "Queen of Tears",
+    "year": 2024,
+    "genre": "Romance · Drama",
+    "kind": "review",
+    "description": "Selected for the DSS TV review watchlist. Review pending.",
+    "poster": "assets/posters/queen-of-tears.jpg",
+    "status": "Poster pending"
+  },
+  {
+    "id": "lovely-runner",
+    "title": "Lovely Runner",
+    "year": 2024,
+    "genre": "Romance · Fantasy",
+    "kind": "review",
+    "description": "Selected for the DSS TV review watchlist. Review pending.",
+    "poster": "assets/posters/lovely-runner.jpg",
+    "status": "Poster pending"
+  },
+  {
+    "id": "moving",
+    "title": "Moving",
+    "year": 2023,
+    "genre": "Action · Fantasy",
+    "kind": "review",
+    "description": "Selected for the DSS TV review watchlist. Review pending.",
+    "poster": "assets/posters/moving.jpg",
+    "status": "Poster pending"
+  },
+  {
+    "id": "my-dearest",
+    "title": "My Dearest",
+    "year": 2023,
+    "genre": "Historical · Romance",
+    "kind": "review",
+    "description": "Selected for the DSS TV review watchlist. Review pending.",
+    "poster": "assets/posters/my-dearest.jpg",
+    "status": "Poster pending"
+  }
+]
