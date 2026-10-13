@@ -7,7 +7,10 @@
     "kind": "original",
     "description": "A warehouse inventory specialist investigates the disappearance of her brother three years earlier.",
     "poster": "assets/posters/cargo-13.jpg",
-    "status": "In development"
+    "status": "In development",
+    "videoUrl": "",
+    "published": true,
+    "trending": true
   },
   {
     "id": "four-hands-two-sonatas",
@@ -17,7 +20,10 @@
     "kind": "review",
     "description": "DSS TV K-Drama Spotlight feature for Four Hands, Two Sonatas (포핸즈). Approved promotional editorial poster; video review available through DSS TV channels.",
     "poster": "assets/posters/four-hands-two-sonatas.png",
-    "status": "Approved DSS TV Spotlight poster"
+    "status": "Approved DSS TV Spotlight poster",
+    "videoUrl": "",
+    "published": true,
+    "trending": true
   },
   {
     "id": "when-life-gives-you-tangerines",
@@ -27,7 +33,10 @@
     "kind": "review",
     "description": "Selected for the DSS TV review watchlist. Review pending.",
     "poster": "assets/posters/when-life-gives-you-tangerines.jpg",
-    "status": "Poster pending"
+    "status": "Poster pending",
+    "videoUrl": "",
+    "published": true,
+    "trending": true
   },
   {
     "id": "love-scout",
@@ -37,7 +46,10 @@
     "kind": "review",
     "description": "Selected for the DSS TV review watchlist. Review pending.",
     "poster": "assets/posters/love-scout.jpg",
-    "status": "Poster pending"
+    "status": "Poster pending",
+    "videoUrl": "",
+    "published": true,
+    "trending": true
   },
   {
     "id": "queen-of-tears",
@@ -46,8 +58,11 @@
     "genre": "Romance · Drama",
     "kind": "review",
     "description": "Selected for the DSS TV review watchlist. Review pending.",
-    "poster": "assets/posters/queen-of-tears.jpg",
-    "status": "Poster pending"
+    "poster": "assets/posters/queen-of-tears.png",
+    "status": "Poster pending",
+    "videoUrl": "",
+    "published": true,
+    "trending": true
   },
   {
     "id": "lovely-runner",
